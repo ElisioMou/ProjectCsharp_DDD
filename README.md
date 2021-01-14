@@ -1,6 +1,3 @@
-# What is Aurora project?
-It's an open source project, written in .NET Core, currently in version 3.1.
-
 The project's goals is to show that is possible to create an architecture more simple than others and using some concepts like DDD (Design Driven Design).
 
 ## Business proposal:

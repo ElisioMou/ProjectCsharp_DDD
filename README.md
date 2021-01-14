@@ -1,4 +1,4 @@
-The project's goals is to show that is possible to create an architecture more simple than others and using some concepts like DDD (Design Driven Design).
+<h1>The project's goals is to show that is possible to create an architecture more simple than others and using some concepts like DDD (Design Driven Design).</h1>
 
 ## Business proposal:
 This project is a simple PPE (Personal Protective Equipament) Management. The principle idea is to register workers and PPE and, with this data, allow to transfer PPE to a worker.
